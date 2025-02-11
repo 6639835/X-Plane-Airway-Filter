@@ -4,9 +4,9 @@
 china_areas = {'ZB', 'ZG', 'ZY', 'ZS', 'ZW', 'ZJ', 'ZP', 'ZL', 'ZH', 'ZU'}
 
 # 原始文件路径
-input_file = '/Users/lujuncheng/Downloads/xplane12_native_2501/earth_awy.dat'
+input_file = 'earth_awy.dat'
 # 输出文件路径
-output_file = '/Users/lujuncheng/Downloads/PMDG NavData/earth_awy_6643.dat'
+output_file = 'output.dat'
 
 try:
     with open(input_file, 'r', encoding='utf-8') as file_input:
