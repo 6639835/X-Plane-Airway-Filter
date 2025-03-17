@@ -56,3 +56,7 @@ After processing, the program will output the following messages:
 - You can modify the `china_areas` list as needed
 - You can adjust the input and output file paths
 - Welcome to submit Pull Requests to improve the code together
+
+### 8. Contributions
+
+![Alt](https://repobeats.axiom.co/api/embed/56889020667fd946242b9730dbc85c6fabbd9516.svg "Repobeats analytics image")
