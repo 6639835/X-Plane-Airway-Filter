@@ -1,12 +1,12 @@
 # X-Plane Airway Filter: Declutter Your Navigation Data! 🗺️ ✂️
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![X-Plane](https://img.shields.io/badge/X--Plane-Ready-green.svg)](https://www.x-plane.com/) [![Data Filtering](https://img.shields.io/badge/Data-Filtering-yellow.svg)](https://en.wikipedia.org/wiki/Data_cleansing) [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/YOUR_GITHUB_USERNAME/X-Plane-Airway-Filter?style=social)](https://github.com/YOUR_GITHUB_USERNAME/X-Plane-Airway-Filter)
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/) [![X-Plane](https://img.shields.io/badge/X--Plane-Ready-green.svg)](https://www.x-plane.com/) [![Data Filtering](https://img.shields.io/badge/Data-Filtering-yellow.svg)](https://en.wikipedia.org/wiki/Data_cleansing) [![License: MIT](https://img.shields.io/badge/License-MIT-lightgrey.svg)](LICENSE) [![GitHub Stars](https://img.shields.io/github/stars/6639835/X-Plane-Airway-Filter?style=social)](https://github.com/6639835/X-Plane-Airway-Filter)
 
 Clean up your X-Plane navigation data with this handy Python tool!  Designed to remove specific rows from DAT files, particularly for filtering data related to specific regions (e.g., within China). Improve your X-Plane experience by focusing on the areas you fly in most!
 
 **Eliminate Unwanted Navigation Data and Simplify Your X-Plane World!**
 
-**Important:** Replace `YOUR_GITHUB_USERNAME` with your actual GitHub username in the GitHub Stars badge link.
+**Important:** Replace `6639835` with your actual GitHub username in the GitHub Stars badge link.
 
 ---
 
