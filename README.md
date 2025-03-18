@@ -6,7 +6,6 @@ Clean up your X-Plane navigation data with this handy Python tool!  Designed to 
 
 **Eliminate Unwanted Navigation Data and Simplify Your X-Plane World!**
 
-**Important:** Replace `6639835` with your actual GitHub username in the GitHub Stars badge link.
 
 ---
 
